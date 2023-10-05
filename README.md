@@ -77,3 +77,8 @@ I used [Wireframe.cc](wireframe.cc/) to create the wireframes for this project.
 
 As mentioned previously, the vast majority of this project was done alongside the videos for User Centric Front End Development and I made some adjustments along the way to try and make the project my own.
 
+
+
+
+[Link to GitHub Repo](https://github.com/gazi14/gazi14.github.io)
+[Link to GitPages Site](https://gazi14.github.io/)
