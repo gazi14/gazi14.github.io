@@ -1,4 +1,4 @@
-# Milestone Project 1 - Portfolio!
+# Project 1 - Portfolio!
 ## Introduction
 
 For this project I have decided to create a portfolio site with 3 main pages, although there will also be links to external pages.
